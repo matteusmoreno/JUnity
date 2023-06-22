@@ -5,7 +5,7 @@ public class Calculadora {
     }
 
     public double subtrair(double a, double b){
-        return ((a) - (b));
+        return a - b;
     }
 
     public double multiplicar(double a, double b){
